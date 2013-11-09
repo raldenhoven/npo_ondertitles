@@ -1,5 +1,9 @@
 NPO Ondertitels
 ===============
+Clone Repo
+
+Create subtitle directory
+
 Send a program overview url to find_episodes("episdoe")
 
 Go to your terminal (NERD MODE!!!)
